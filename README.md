@@ -1,6 +1,8 @@
 # Genshin-manger
 <img align="left" src="https://i.ibb.co/tPqsGCQ/2-1.png">
+
 **Genshin Impact descktop help manager** — десктопное приложение, которое совмещает в себе функционал мобильного приложения, сайта [HoyoLab](https://www.hoyolab.com/home) и вики по игре Genshin Impact.
+
 ____
 # Оглавление
 0. [Функционал программы](#Функционал-программы)
