@@ -1,7 +1,11 @@
 # Genshin-manger
 <img align="left" src="https://i.ibb.co/tPqsGCQ/2-1.png" width=256>
 
-**Genshin Impact descktop help manager** — десктопное приложение, которое совмещает в себе функционал мобильного приложения, сайта [HoyoLab](https://www.hoyolab.com/home) и вики по игре Genshin Impact.
+**Genshin Impact descktop help manager** — десктопное приложение, которое совмещает в себе функционал мобильного приложения и сайта [HoyoLab](https://www.hoyolab.com/home).
+
+Оно призвано облегчить доступ ко многим функциям по Genshin Impact'у в одном месте.
+
+Данное приложение базируется на современной библиотеки [genshin.py](https://github.com/thesadru/genshin.py/).
 
 <br>
 
@@ -47,7 +51,7 @@ ____
 # Список используемых инструментов и библиотек
 1. Python
 2. PyQt
-3. [gensinstats](https://thesadru.github.io/pdoc/genshinstats/index.html)
+3. [genshin.py](https://github.com/thesadru/genshin.py/)
 
 [:arrow_up:Оглавление](#Оглавление)
 ____
