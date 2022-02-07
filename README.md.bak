@@ -40,9 +40,13 @@ In progress
 [:arrow_up:Оглавление](#Оглавление)
 ____
 # Список используемых инструментов и библиотек
+Front-end:
 1. Python
 2. PyQt
-3. gensinstats
+Back-end:
+1. genshinstats
+2. requests
+3. browser-cookie3
 
 [:arrow_up:Оглавление](#Оглавление)
 ____
